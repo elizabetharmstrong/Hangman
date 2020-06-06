@@ -1,3 +1,4 @@
 # Hangman
 Python hangman game
-Interaction text based hangman game
+
+An interaction text based hangman game
